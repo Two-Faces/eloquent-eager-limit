@@ -1,5 +1,5 @@
 {
-    "name": "Two-Faces/eloquent-eager-limit",
+    "name": "two-faces/eloquent-eager-limit",
     "description": "Laravel Eloquent eager loading with limit",
     "license": "MIT",
     "authors": [
